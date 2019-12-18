@@ -1,0 +1,216 @@
+
+New record:
+2019-12-14 23:44:57
+{"FIRSTNAME":"Ann","LASTNAME":"Starshova","AGE":"19","ADDRESS":"Admirala Makarova street","PHONE_NUMBER":"(090)9909090","EMAIL":"starshovaanna@ukr.net"}
+fail
+
+
+New record:
+2019-12-14 23:54:41
+{"FIRSTNAME":"s","LASTNAME":"s","AGE":"19","ADDRESS":"s","PHONE_NUMBER":"(222)2222222","EMAIL":"starshovaanna@ukr.net"}
+success
+
+
+New record:
+2019-12-14 23:55:40
+{"FIRSTNAME":"asd","LASTNAME":"das","AGE":"19","ADDRESS":"s","PHONE_NUMBER":"(099)0672503","EMAIL":"starshovaanna@ukr.net"}
+success
+
+
+New record:
+2019-12-14 23:56:31
+{"FIRSTNAME":"sad","LASTNAME":"sad","AGE":"asd","ADDRESS":"s","PHONE_NUMBER":"(099)0672503","EMAIL":"starshovaanna@ukr.net"}
+fail
+
+
+New record:
+2019-12-14 23:58:49
+{"FIRSTNAME":"Ann","LASTNAME":"Starshova","AGE":"19","ADDRESS":"Admirala Makarova street","PHONE_NUMBER":"(099)0672503","EMAIL":"starshovaanna@ukr.net"}
+success
+
+
+New record:
+2019-12-18 09:11:13
+{"FIRSTNAME":"ssd","LASTNAME":"sd","AGE":"222","ADDRESS":"ds","PHONE_NUMBER":"3243","EMAIL":"starshovaanna@ukr.net"}
+fail
+
+
+New record:
+2019-12-18 09:13:33
+{"FIRSTNAME":"ssd","LASTNAME":"sd","AGE":"222","ADDRESS":"ds","PHONE_NUMBER":"3243","EMAIL":"starshovaanna@ukr.net"}
+fail
+
+
+New record:
+2019-12-18 09:14:12
+{"FIRSTNAME":"ssd","LASTNAME":"sd","AGE":"222","ADDRESS":"ds","PHONE_NUMBER":"3243","EMAIL":"starshovaanna@ukr.net"}
+fail
+
+
+New record:
+2019-12-18 09:15:05
+{"FIRSTNAME":"ssd","LASTNAME":"sd","AGE":"222","ADDRESS":"ds","PHONE_NUMBER":"3243","EMAIL":"starshovaanna@ukr.net"}
+fail
+
+
+New record:
+2019-12-18 09:30:54
+{"FIRSTNAME":"sdf","LASTNAME":"sdf","AGE":"222","ADDRESS":"ds","PHONE_NUMBER":"sdf","EMAIL":"starshovaanna@ukr.net"}
+fail
+
+
+New record:
+2019-12-18 09:32:54
+{"FIRSTNAME":"sdf","LASTNAME":"sdf","AGE":"222","ADDRESS":"ds","PHONE_NUMBER":"sdf","EMAIL":"starshovaanna@ukr.net"}
+fail
+
+
+New record:
+2019-12-18 09:35:27
+{"FIRSTNAME":"sdf","LASTNAME":"sdf","AGE":"222","ADDRESS":"ds","PHONE_NUMBER":"sdf","EMAIL":"starshovaanna@ukr.net"}
+fail
+
+
+New record:
+2019-12-18 09:36:15
+{"FIRSTNAME":"sdf","LASTNAME":"sdf","AGE":"222","ADDRESS":"ds","PHONE_NUMBER":"sdf","EMAIL":"starshovaanna@ukr.net"}
+fail
+
+
+New record:
+2019-12-18 09:37:09
+{"FIRSTNAME":"sdf","LASTNAME":"sdf","AGE":"222","ADDRESS":"ds","PHONE_NUMBER":"sdf","EMAIL":"starshovaanna@ukr.net"}
+fail
+
+
+New record:
+2019-12-18 09:37:25
+{"FIRSTNAME":"sdf","LASTNAME":"sdf","AGE":"222","ADDRESS":"ds","PHONE_NUMBER":"sdf","EMAIL":"starshovaanna@ukr.net"}
+success
+
+
+New record:
+2019-12-18 09:38:15
+{"FIRSTNAME":"sd","LASTNAME":"sdf","AGE":"222","ADDRESS":"ds","PHONE_NUMBER":"3243","EMAIL":"starshovaanna@ukr.net"}
+success
+
+
+New record:
+2019-12-18 09:40:17
+{"FIRSTNAME":"dsf","LASTNAME":"sdf","AGE":"sdf","ADDRESS":"sdf","PHONE_NUMBER":"sdf","EMAIL":"starshovaanna@ukr.net"}
+fail
+
+
+New record:
+2019-12-18 09:41:18
+{"FIRSTNAME":"asd","LASTNAME":"asd","AGE":"asd","ADDRESS":"asd","PHONE_NUMBER":"asd","EMAIL":"starshovaanna@ukr.net"}
+fail
+
+
+New record:
+2019-12-18 11:57:06
+{"FIRSTNAME":"ssd","LASTNAME":"ds","AGE":"222","ADDRESS":"ds","PHONE_NUMBER":"(213)1231231","EMAIL":"starshovaanna@ukr.net"}
+fail
+
+
+New record:
+2019-12-18 11:57:20
+{"FIRSTNAME":"sd","LASTNAME":"sd","AGE":"sd","ADDRESS":"sdf","PHONE_NUMBER":"(213)1231231","EMAIL":"starshovaanna@ukr.net"}
+fail
+
+
+New record:
+2019-12-18 11:57:32
+{"FIRSTNAME":"sd","LASTNAME":"sd","AGE":"sd","ADDRESS":"sdf","PHONE_NUMBER":"(213)1231231","EMAIL":"starshovaanna@ukr.net"}
+fail
+
+
+New record:
+2019-12-18 11:57:37
+{"FIRSTNAME":"sad","LASTNAME":"asd","AGE":"sd","ADDRESS":"ds","PHONE_NUMBER":"(213)1231231","EMAIL":"starshovaanna@ukr.net"}
+fail
+
+
+New record:
+2019-12-18 11:58:30
+{"FIRSTNAME":"sd","LASTNAME":"ds","AGE":"222","ADDRESS":"ds","PHONE_NUMBER":"(213)1231231","EMAIL":"starshovaanna@ukr.net"}
+fail
+
+
+New record:
+2019-12-18 12:00:31
+{"FIRSTNAME":"sdf","LASTNAME":"ds","AGE":"222","ADDRESS":"ds","PHONE_NUMBER":"(324)2342342","EMAIL":"starshovaanna@ukr.net"}
+fail
+
+
+New record:
+2019-12-18 12:01:13
+{"FIRSTNAME":"sdf","LASTNAME":"ds","AGE":"222","ADDRESS":"ds","PHONE_NUMBER":"(324)2342342","EMAIL":"starshovaanna@ukr.net"}
+success
+
+
+New record:
+2019-12-18 12:01:24
+{"FIRSTNAME":"sdf","LASTNAME":"sdf","AGE":"222","ADDRESS":"sdf","PHONE_NUMBER":"(213)1231231","EMAIL":"starshovaanna@ukr.net"}
+success
+
+
+New record:
+2019-12-18 12:27:05
+{"FIRSTNAME":"ssd","LASTNAME":"sdf","AGE":"222","ADDRESS":"ds","PHONE_NUMBER":"(341)2323412","EMAIL":"starshovaanna@ukr.net"}
+success
+
+
+New record:
+2019-12-18 12:27:07
+{"FIRSTNAME":"ssd","LASTNAME":"sdf","AGE":"222","ADDRESS":"ds","PHONE_NUMBER":"(341)2323412","EMAIL":"starshovaanna@ukr.net"}
+success
+
+
+New record:
+2019-12-18 12:37:55
+{"FIRSTNAME":"ssd","LASTNAME":"ds","AGE":"222","ADDRESS":"ds","PHONE_NUMBER":"(213)1231231","EMAIL":"starshovaanna@ukr.net"}
+success
+
+
+New record:
+2019-12-18 12:38:32
+{"FIRSTNAME":"ssd","LASTNAME":"sdf","AGE":"222","ADDRESS":"ds","PHONE_NUMBER":"(213)1231231","EMAIL":"starshovaanna@ukr.net"}
+success
+
+
+New record:
+2019-12-18 12:40:42
+{"FIRSTNAME":"SDSD","LASTNAME":"ds","AGE":"asd","ADDRESS":"ds","PHONE_NUMBER":"(213)1231231","EMAIL":"starshovaanna@ukr.net"}
+fail
+
+
+New record:
+2019-12-18 12:41:27
+{"FIRSTNAME":"","LASTNAME":"","AGE":"","ADDRESS":"","PHONE_NUMBER":"","EMAIL":""}
+fail
+
+
+New record:
+2019-12-18 12:42:12
+{"FIRSTNAME":"sdf","LASTNAME":"sdf","AGE":"222","ADDRESS":"ds","PHONE_NUMBER":"(213)1231231","EMAIL":"starshovaanna@ukr.net"}
+success
+
+
+New record:
+2019-12-18 12:42:20
+{"FIRSTNAME":"","LASTNAME":"","AGE":"","ADDRESS":"","PHONE_NUMBER":"","EMAIL":""}
+fail
+
+
+New record:
+2019-12-18 12:42:48
+{"FIRSTNAME":"dsfsdf","LASTNAME":"sdf","AGE":"sdf","ADDRESS":"SDFSDFSD","PHONE_NUMBER":"(213)1231231","EMAIL":"starshovaanna@ukr.net"}
+fail
+
+
+New record:
+2019-12-18 12:43:11
+{"FIRSTNAME":"ssd","LASTNAME":"sd","AGE":"sd","ADDRESS":"ds","PHONE_NUMBER":"(213)1231231","EMAIL":"starshovaanna@ukr.net"}
+fail
+
